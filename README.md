@@ -2,8 +2,6 @@
 
 #### Description:
 
-Workout Logger is a web application designed to help users keep track of their exercise routines and view statistical insights over time. With this app, users can easily log their workouts and monitor their progress through interactive charts and tables.
-
 AI Exchange is a web application designed to help users discuss AI Ethics and Governance in a forum based format.
 
 #### Features:
